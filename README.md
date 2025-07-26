@@ -5,13 +5,15 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 133.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,188 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +48,17 @@ Sunday                   222 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Bash                     37 mins             █████████████████████████   100.00 % 
+Bash                     44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stacks                   37 mins             █████████████████████████   100.00 % 
+stacks                   44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   99.53 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Linux                    43 mins             █████████████████████████   98.56 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -76,7 +78,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 01:34:32 UTC
+ Last Updated on 26/07/2025 01:34:48 UTC
 <!--END_SECTION:waka-->
 
 <!---
