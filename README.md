@@ -5,10 +5,6 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,20 +46,18 @@ Sunday                   140 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Go                       59 mins             ██████████████░░░░░░░░░░░   57.97 % 
-Makefile                 24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Bash                     5 mins              ██████████████████████░░░   86.36 % 
+YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kb-manager               1 hr 35 mins        ███████████████████████░░   93.44 % 
-just-simple-cloud        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+arr-stack                5 mins              ██████████████████████░░░   88.36 % 
+stacks                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 
 💻 Operating System: 
-WSL                      1 hr 42 mins        █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +83,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 04:00:01 UTC
+ Last Updated on 29/07/2026 04:11:14 UTC
 <!--END_SECTION:waka-->
 
 <!---
