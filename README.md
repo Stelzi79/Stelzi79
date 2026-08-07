@@ -5,17 +5,13 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 178.4 kB Used in GitHub's Storage 
  > 
-> 🏆 580 Contributions in the Year 2026
+> 🏆 583 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,51 +19,6 @@
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1002 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌆 Daytime                507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-🌃 Evening                1966 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
-🌙 Night                  982 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Tuesday                  955 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Wednesday                634 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 1515 commits        ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Friday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Saturday                 370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Sunday                   140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-Go                       1 min               █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-simd-test                1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      1 min               █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -85,7 +36,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:36:42 UTC
+ Last Updated on 07/08/2026 01:50:15 UTC
 <!--END_SECTION:waka-->
 
 <!---
