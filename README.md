@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 186.6 kB Used in GitHub's Storage 
+> 📦 186.7 kB Used in GitHub's Storage 
  > 
-> 🏆 622 Contributions in the Year 2026
+> 🏆 623 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,9 +26,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1009 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-🌆 Daytime                511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-🌃 Evening                1982 commits        ███████████░░░░░░░░░░░░░░   44.05 % 
+🌞 Morning                1009 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+🌆 Daytime                512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+🌃 Evening                1982 commits        ███████████░░░░░░░░░░░░░░   44.04 % 
 🌙 Night                  997 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -37,7 +37,7 @@
 Monday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 Tuesday                  963 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 1522 commits        ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Thursday                 1523 commits        ████████░░░░░░░░░░░░░░░░░   33.84 % 
 Friday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 Saturday                 378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 Sunday                   145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
@@ -50,22 +50,22 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-YAML                     2 hrs 10 mins       █████████████████████░░░░   85.94 % 
-Go                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+YAML                     5 hrs 7 mins        ███████████████████████░░   90.10 % 
+Go                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codeberg                 2 hrs 10 mins       █████████████████████░░░░   85.70 % 
-simd-test                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-stacks                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+codeberg                 5 hrs 19 mins       ███████████████████████░░   93.63 % 
+simd-test                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+stacks                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-WSL                      2 hrs 32 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 02:38:33 UTC
+ Last Updated on 28/08/2026 03:47:25 UTC
 <!--END_SECTION:waka-->
 
 <!---
