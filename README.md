@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 187.3 kB Used in GitHub's Storage 
+> 📦 187.4 kB Used in GitHub's Storage 
  > 
-> 🏆 655 Contributions in the Year 2026
+> 🏆 658 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,19 +26,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1014 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+🌞 Morning                1015 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 🌆 Daytime                515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-🌃 Evening                1996 commits        ███████████░░░░░░░░░░░░░░   44.04 % 
-🌙 Night                  1007 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌃 Evening                1998 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
+🌙 Night                  1007 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Tuesday                  967 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Wednesday                652 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Thursday                 1525 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-Friday                   576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  967 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Wednesday                652 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Thursday                 1527 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Friday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 Sunday                   145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
@@ -50,18 +50,18 @@ Sunday                   145 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Bash                     2 mins              ██████████████████████░░░   87.42 % 
-YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Bash                     9 mins              ███████████████████░░░░░░   76.38 % 
+YAML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stacks                   2 mins              ██████████████████████░░░   87.01 % 
-arr-stack                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+stacks                   12 mins             ████████████████████████░   96.70 % 
+arr-stack                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 05:44:18 UTC
+ Last Updated on 18/09/2026 05:33:30 UTC
 <!--END_SECTION:waka-->
 
 <!---
