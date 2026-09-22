@@ -50,18 +50,21 @@ Sunday                   147 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Bash                     9 mins              ███████████████████░░░░░░   77.80 % 
-YAML                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Bash                     9 mins              ████████████░░░░░░░░░░░░░   46.48 % 
+YAML                     8 mins              █████████░░░░░░░░░░░░░░░░   37.69 % 
+Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stacks                   12 mins             █████████████████████████   98.49 % 
-arr-stack                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+stacks                   12 mins             ███████████████░░░░░░░░░░   58.21 % 
+Unknown Project          8 mins              ██████████░░░░░░░░░░░░░░░   39.36 % 
+arr-stack                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Linux                    12 mins             ███████████████░░░░░░░░░░   60.64 % 
+Windows                  8 mins              ██████████░░░░░░░░░░░░░░░   39.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +90,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 05:54:30 UTC
+ Last Updated on 22/09/2026 05:51:20 UTC
 <!--END_SECTION:waka-->
 
 <!---
