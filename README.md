@@ -15,7 +15,7 @@
 
 > 📦 187.6 kB Used in GitHub's Storage 
  > 
-> 🏆 675 Contributions in the Year 2026
+> 🏆 677 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,20 +26,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1018 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌞 Morning                1018 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 🌆 Daytime                515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-🌃 Evening                2000 commits        ███████████░░░░░░░░░░░░░░   43.94 % 
-🌙 Night                  1019 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌃 Evening                2002 commits        ███████████░░░░░░░░░░░░░░   43.96 % 
+🌙 Night                  1019 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Tuesday                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Wednesday                653 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Thursday                 1534 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Friday                   579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Tuesday                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Wednesday                653 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Thursday                 1536 commits        ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Friday                   579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 Sunday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
@@ -50,23 +50,45 @@ Sunday                   147 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-YAML                     0 secs              ████████████████░░░░░░░░░   64.68 % 
-Bash                     0 secs              █████████░░░░░░░░░░░░░░░░   35.32 % 
+PowerShell               1 hr 54 mins        ██████████████████░░░░░░░   70.76 % 
+Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+SSH Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   99.62 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-arr-stack                0 secs              █████████████████████████   100.00 % 
+stelz                    1 hr 59 mins        ██████████████████░░░░░░░   73.98 % 
+stelzi79                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+arr-stack                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       ████████████████████░░░░░   80.97 % 
+Linux                    30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 26 mins (16.65%)
+
+✍️ 0 lines written by AI, 61 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -86,7 +108,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 06:50:29 UTC
+ Last Updated on 02/10/2026 06:40:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
