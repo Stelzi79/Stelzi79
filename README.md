@@ -26,21 +26,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1018 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-🌆 Daytime                515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-🌃 Evening                2007 commits        ███████████░░░░░░░░░░░░░░   43.97 % 
-🌙 Night                  1024 commits        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+🌞 Morning                960 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌆 Daytime                514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌃 Evening                1957 commits        ███████████░░░░░░░░░░░░░░   44.18 % 
+🌙 Night                  999 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Tuesday                  971 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Wednesday                654 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 1536 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-Friday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Saturday                 388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Sunday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Monday                   263 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Tuesday                  961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Wednesday                632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 1484 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Friday                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Saturday                 365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Sunday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 
@@ -50,46 +50,25 @@ Sunday                   147 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PowerShell               1 hr 54 mins        ████████████████░░░░░░░░░   65.55 % 
-Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-SSH Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Bash                     13 mins             █████████████████████░░░░   85.83 % 
+YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       █████████████████████████   99.65 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  14 mins             █████████████████████████   98.82 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-stelz                    1 hr 59 mins        █████████████████░░░░░░░░   68.54 % 
-stelzi79                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-stacks                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-arr-stack                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+stacks                   13 mins             ███████████████████████░░   91.71 % 
+arr-stack                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       ███████████████████░░░░░░   75.01 % 
-Linux                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (15.42%)
-
-✍️ 0 lines written by AI, 63 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 37 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Shell** 
@@ -109,7 +88,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 07:00:49 UTC
+ Last Updated on 09/10/2026 07:09:03 UTC
 <!--END_SECTION:waka-->
 
 <!---
