@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 187.8 kB Used in GitHub's Storage 
+> 📦 188.0 kB Used in GitHub's Storage 
  > 
-> 🏆 692 Contributions in the Year 2026
+> 🏆 697 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,20 +26,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-🌆 Daytime                514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌃 Evening                1959 commits        ███████████░░░░░░░░░░░░░░   44.17 % 
-🌙 Night                  1000 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌞 Morning                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌆 Daytime                514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌃 Evening                1964 commits        ███████████░░░░░░░░░░░░░░   44.23 % 
+🌙 Night                  1000 commits        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Tuesday                  964 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Wednesday                632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Thursday                 1484 commits        ████████░░░░░░░░░░░░░░░░░   33.46 % 
-Friday                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Tuesday                  969 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Wednesday                632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 1484 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Friday                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 Sunday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
@@ -50,23 +50,26 @@ Sunday                   147 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-YAML                     1 hr 22 mins        ████████████████░░░░░░░░░   64.89 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+YAML                     1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.76 % 
+PowerShell               48 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   99.86 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  3 hrs 1 min         █████████████████████████   99.90 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-stacks                   1 hr 34 mins        ███████████████████░░░░░░   74.86 % 
-convert-mkv              31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+stacks                   1 hr 34 mins        █████████████░░░░░░░░░░░░   52.26 % 
+Modules                  52 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+convert-mkv              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+arr-data                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        ███████████████████░░░░░░   74.86 % 
-WSL                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Linux                    1 hr 36 mins        █████████████░░░░░░░░░░░░   53.29 % 
+Windows                  52 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+WSL                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 07:22:10 UTC
+ Last Updated on 14/10/2026 05:47:15 UTC
 <!--END_SECTION:waka-->
 
 <!---
