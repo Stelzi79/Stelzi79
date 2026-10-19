@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
@@ -50,26 +50,26 @@ Sunday                   147 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Go                       4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.12 % 
-Markdown                 2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-PowerShell               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Go                       4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.34 % 
+Markdown                 2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+PowerShell               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-convert-mkv              7 hrs 29 mins       ██████████████████░░░░░░░   71.25 % 
-Modules                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-stacks                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-ssh                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-herdr                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+convert-mkv              7 hrs 29 mins       █████████████████░░░░░░░░   69.83 % 
+Modules                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+stacks                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+ssh                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+herdr                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-WSL                      7 hrs 30 mins       ██████████████████░░░░░░░   71.39 % 
-Windows                  2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Linux                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+WSL                      7 hrs 34 mins       ██████████████████░░░░░░░   70.67 % 
+Windows                  2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Linux                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 05:24:44 UTC
+ Last Updated on 19/10/2026 05:42:21 UTC
 <!--END_SECTION:waka-->
 
 <!---
