@@ -5,17 +5,15 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.1 kB Used in GitHub's Storage 
- > 
-> 🏆 758 Contributions in the Year 2026
+> 📦 187.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,18 +24,18 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                986 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌞 Morning                986 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
 🌆 Daytime                518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌃 Evening                1984 commits        ███████████░░░░░░░░░░░░░░   44.08 % 
-🌙 Night                  1013 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌃 Evening                1984 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  1014 commits        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Monday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 Tuesday                  976 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
 Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 1488 commits        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+Thursday                 1488 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
 Friday                   597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 Saturday                 375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
@@ -50,37 +48,37 @@ Sunday                   149 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Go                       9 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Markdown                 8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-YAML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Bash                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Go                       9 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Markdown                 8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+YAML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Bash                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 43 mins      ███████████████░░░░░░░░░░   61.16 % 
-Opencode Cli             7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-OpenCode                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+VS Code                  19 hrs 32 mins      ███████████████░░░░░░░░░░   60.93 % 
+Opencode Cli             7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+OpenCode                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 Copilot CLI              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-deploy-secrets           18 hrs 9 mins       ██████████████░░░░░░░░░░░   56.27 % 
-convert-mkv              5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-opencode                 4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-codeberg                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-herdr                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+deploy-secrets           18 hrs 9 mins       ██████████████░░░░░░░░░░░   56.61 % 
+convert-mkv              5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+opencode                 4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+codeberg                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+herdr                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-WSL                      30 hrs 57 mins      ████████████████████████░   95.97 % 
-Windows                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+WSL                      30 hrs 46 mins      ████████████████████████░   95.94 % 
+Windows                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 4 mins (87.03%)
+⏱ AI Coding Time: 28 hrs 4 mins (87.55%)
 
-✍️ 4,226 lines written by AI, 310 lines written by hand (93.17% AI-written)
+✍️ 4,226 lines written by AI, 303 lines written by hand (93.31% AI-written)
 
 🔤 36,743,260 Input Tokens, 604,296 Output Tokens
 
@@ -93,10 +91,10 @@ Nemotron                 840 lines           █████░░░░░░�
 Flint                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.17% of written lines came from AI
+🤖 AI-Driven — 93.31% of written lines came from AI
 📝 Concise Prompter — average 123 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.93% of changed lines were hand-edited
+🚀 High AI Trust — 8.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -116,7 +114,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 06:56:37 UTC
+ Last Updated on 09/11/2026 07:37:28 UTC
 <!--END_SECTION:waka-->
 
 <!---
