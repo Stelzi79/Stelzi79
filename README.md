@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2041%20mins-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 188.1 kB Used in GitHub's Storage 
  > 
-> 🏆 798 Contributions in the Year 2026
+> 🏆 799 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,20 +26,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                991 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+🌞 Morning                991 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 🌆 Daytime                525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-🌃 Evening                2001 commits        ███████████░░░░░░░░░░░░░░   44.06 % 
-🌙 Night                  1025 commits        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌃 Evening                2002 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  1025 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 Tuesday                  989 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Wednesday                643 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 1497 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Wednesday                643 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 1497 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
 Friday                   605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Saturday                 376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Saturday                 377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 Sunday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 
@@ -50,50 +50,50 @@ Sunday                   152 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Other                    4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-YAML                     3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Go                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Other                    4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+YAML                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Go                       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      ██████████████████████░░░   86.25 % 
-Opencode Cli             2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-OpenCode                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+VS Code                  19 hrs 17 mins      ███████████████████████░░   90.59 % 
+Opencode Cli             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+OpenCode                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-dps                      5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-stack                    3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-stelzi79                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-agent                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-template-golang-cli      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+dps                      9 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+stack                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+stelzi79                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+agent                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+template-golang-cli      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 💻 Operating System: 
-WSL                      16 hrs              ████████████████████████░   96.55 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Linux                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+WSL                      20 hrs 43 mins      ████████████████████████░   97.31 % 
+Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Linux                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 27 mins (69.1%)
+⏱ AI Coding Time: 15 hrs 57 mins (74.96%)
 
-✍️ 1,218 lines written by AI, 286 lines written by hand (80.98% AI-written)
+✍️ 431 lines written by AI, 285 lines written by hand (60.2% AI-written)
 
-🔤 11,231,117 Input Tokens, 104,089 Output Tokens
+🔤 12,318,596 Input Tokens, 126,201 Output Tokens
 
-💵 $5.99 Estimated AI Cost This Week
+💵 $6.67 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 52 AI Prompts
+🧠 17 AI Sessions, 59 AI Prompts
 
-Qwen                     1,219 lines         █████████████████████████   100.00 % 
+Qwen                     432 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.98% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
+⚖️ Balanced with AI — 60.2% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.76% of changed lines were hand-edited
+🚀 High AI Trust — 45.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -113,7 +113,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 07:59:13 UTC
+ Last Updated on 22/11/2026 07:45:54 UTC
 <!--END_SECTION:waka-->
 
 <!---
