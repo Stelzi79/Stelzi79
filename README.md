@@ -5,11 +5,11 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,50 +50,50 @@ Sunday                   152 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Markdown                 5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Other                    4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-YAML                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Go                       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Go                       5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Other                    5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+YAML                     5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 17 mins      ███████████████████████░░   90.59 % 
-Opencode Cli             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-OpenCode                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+VS Code                  27 hrs 53 mins      ███████████████████████░░   93.29 % 
+Opencode Cli             1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+OpenCode                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-dps                      9 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.37 % 
-stack                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-stelzi79                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-agent                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-template-golang-cli      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+dps                      11 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.13 % 
+badges                   4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+stack                    3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+02-ai                    2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+stelzi79                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-WSL                      20 hrs 43 mins      ████████████████████████░   97.31 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Linux                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+WSL                      29 hrs 19 mins      █████████████████████████   98.09 % 
+Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Linux                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 57 mins (74.96%)
+⏱ AI Coding Time: 24 hrs 35 mins (82.24%)
 
-✍️ 431 lines written by AI, 285 lines written by hand (60.2% AI-written)
+✍️ 1,871 lines written by AI, 285 lines written by hand (86.78% AI-written)
 
-🔤 12,318,596 Input Tokens, 126,201 Output Tokens
+🔤 18,771,774 Input Tokens, 248,050 Output Tokens
 
-💵 $6.67 Estimated AI Cost This Week
+💵 $10.26 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 59 AI Prompts
+🧠 17 AI Sessions, 82 AI Prompts
 
-Qwen                     432 lines           █████████████████████████   100.00 % 
+Qwen                     1,872 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.2% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 45.37% of changed lines were hand-edited
+🤖 AI-Driven — 86.78% of written lines came from AI
+📝 Concise Prompter — average 76 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -113,7 +113,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Stelzi79/Stelzi79/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 07:45:54 UTC
+ Last Updated on 23/11/2026 08:35:16 UTC
 <!--END_SECTION:waka-->
 
 <!---
